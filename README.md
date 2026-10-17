@@ -139,9 +139,10 @@ applied-meta-analysis-stata/
 - **Research Area:** Statistical Methods and Evidence Synthesis
 - **Project Status:** Training Tasks Completed
 
-## Mentorship & Technical Guidance
+## Project Mentors & Key Contributions:
 
-**[Mentor Name] — Project Mentor & Key Contributor**
+• Fatemeh Kardani : Meta-analysis foundations, data preparation, and initial practical exercises.
+• Ali Sangi : Heterogeneity, sensitivity analysis, subgroup analysis, meta-regression, and publication bias.
 
 Provided mentorship and technical guidance throughout the training, supporting the development of practical meta-analysis skills and the interpretation of statistical results.
 
