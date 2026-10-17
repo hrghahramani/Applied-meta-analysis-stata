@@ -149,7 +149,4 @@ Provided mentorship and technical guidance throughout the training, supporting t
 
 This repository documents educational and practical training activities. It should not be interpreted as an independently published systematic review or meta-analysis.
 
-## References
-
-Al Rahbeni T, Satapathy P, Itumalla R, et al. COVID-19 Vaccine Hesitancy: Umbrella Review of Systematic Reviews and Meta-Analysis. *JMIR Public Health and Surveillance*. 2024;10:e54769. https://doi.org/10.2196/54769
 
